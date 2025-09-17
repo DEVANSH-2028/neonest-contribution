@@ -5,7 +5,7 @@
 If you discover a security vulnerability in this project, please report it **privately** so we can address it responsibly.
 
 ### Contact Options
-- **Email:** - please provide your email , aditi !! 
+- **Email:** - aditig135@gmail.com
 - **GitHub Security Advisory:** [Report via GitHub] https://github.com/AditiGupta-tech
 
 ⚠️ Please do **not** open a public issue for security problems.
